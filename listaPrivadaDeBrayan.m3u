@@ -1,0 +1,209 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="TV || ESPAÑA", ESPAÑA | ATRESERIES HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/74039
+
+#EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="TV || ESPAÑA", ESPAÑA | ENERGY HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/110480
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3ffW5nG/Cuatro.png" group-title="TV || ESPAÑA", ESPAÑA | CUATRO
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/182368
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="TV || ESPAÑA", ESPAÑA | CANAL HOLLYWOOD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/182369
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="TV || ESPAÑA", ESPAÑA | ODISEA
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/184852
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TV || ESPAÑA", ESPAÑA | LA 1 HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186219
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="TV || ESPAÑA", ESPAÑA | ONE TORO
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186221
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title="TV || ESPAÑA", ESPAÑA | COSMO
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186223
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/9e1ad00b3db7f22045b242d71638851b.png" group-title="TV || ESPAÑA", ESPAÑA | CALLE 13
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186224
+
+#EXTINF:-1 tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png" group-title="TV || ESPAÑA", ESPAÑA | TELEMADRID
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186225
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mMxg0x7/Vamos.png" group-title="TV || ESPAÑA", ESPAÑA | #VAMOS
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186871
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FqXvTsjp/Antena-3.png" group-title="TV || ESPAÑA", ESPAÑA | ANTENA 3 HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186872
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk3MFs09/Somos.png" group-title="TV || ESPAÑA", ESPAÑA | SOMOS
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186873
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYvN6Lxt/Boing.png" group-title="TV || ESPAÑA", ESPAÑA | BOING
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186874
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xt0Jtm8w/malaga.png" group-title="TV || ESPAÑA", ESPAÑA | CANAL MALAGA
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186875
+
+#EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/energy-tv-vector-logo.png" group-title="TV || ESPAÑA", ESPAÑA | ENERGY HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/110480
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3ffW5nG/Cuatro.png" group-title="TV || ESPAÑA", ESPAÑA | CUATRO
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/182368
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="TV || ESPAÑA", ESPAÑA | CANAL HOLLYWOOD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/182369
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="TV || ESPAÑA", ESPAÑA | ODISEA
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/184852
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="TV || ESPAÑA", ESPAÑA | LA 1 HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186219
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="TV || ESPAÑA", ESPAÑA | ONE TORO
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186221
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/1280px-Canal_Trece_logo.svg.png" group-title="TV || COLOMBIA", COL | CANAL TRECE
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/24598
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/Caracol.co.png" group-title="TV || COLOMBIA", COL | CARACOL SD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/153830
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TV || COLOMBIA", COL | SEÑAL COLOMBIA
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/171153
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="TV || COLOMBIA", COL | CANAL UNO
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/173269
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA", COL | TELEMEDELLIN
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/173271
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="TV || COLOMBIA", COL | ZOOM
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/173275
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="TV || COLOMBIA", COL | CARACOL HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186530
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOLINT.png" group-title="TV || COLOMBIA", COL | CARACOL INT HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186531
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="TV || COLOMBIA", COL | NTN24 HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186532
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Sincelejo-en-vivo-Online.png" group-title="TV || COLOMBIA", COL | CANAL DOCE
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186533
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA", COL | RCN HD*
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186534
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="TV || COLOMBIA", COL | RCN HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186535
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Teleantioquia_logo.png/250px-Teleantioquia_logo.png" group-title="TV || COLOMBIA", COL | TELEANTIOQUIA
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186536
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Telepac%C3%ADfico.png/125px-Telepac%C3%ADfico.png" group-title="TV || COLOMBIA", COL | TELEPACIFICO
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186537
+
+#EXTINF:-1 tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png" group-title="TV || COLOMBIA", COL | TELECAFE HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186538
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="TV || COLOMBIA", COL | SEÑAL COLOMBIA
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/171153
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="TV || COLOMBIA", COL | CANAL UNO
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/173269
+
+#EXTINF:-1 tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="TV || COLOMBIA", COL | CALITV
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/187002
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/3aa88e47a7c7b0de696013be0b091523.png" group-title="TV || COLOMBIA", COL | CABLENOTICIAS
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/187003
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="TV || COLOMBIA", COL | TELEMEDELLIN
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/173271
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="TV || COLOMBIA", COL | ZOOM
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/173275
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOL.png" group-title="TV || COLOMBIA", COL | CARACOL HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186530
+
+#EXTINF:-1 tvg-logo="http://stalkertvlatinoplay.com/LOGOS/COLOMBIA/CARACOLINT.png" group-title="TV || COLOMBIA", COL | CARACOL INT HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/186531
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="TV || ARGENTINA", CANAL 10
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26659
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png" group-title="TV || ARGENTINA", CANAL 22 BUENOS AIRES
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26661
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV || ARGENTINA", CANAL 26
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26662
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X4dchSH/Screenshot-1.png" group-title="TV || ARGENTINA", CANAL 5 TV
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26663
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/13-Max-TV-Corrientes-en-vivo.png" group-title="TV || ARGENTINA", 13MAX
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26664
+
+#EXTINF:-1 tvg-logo="https://9digital.com.ar/wp-content/uploads/2024/03/mi9-x1-175x130px.png" group-title="TV || ARGENTINA", CANAL 9 LITORAL
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26665
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="TV || ARGENTINA", MILENIUM TV
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26666
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZSVdz7/aire.png" group-title="TV || ARGENTINA", AIRE DIGITAL
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26668
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="TV || ARGENTINA", TELEMAX
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26669
+
+#EXTINF:-1 tvg-logo="https://www.teleonline.tv/wp-content/uploads/2024/07/canal-12-metro-tv-150x150.jpg" group-title="TV || ARGENTINA", TELENORD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26670
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="TV || ARGENTINA", TN NOTICIAS
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/90963
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ar/C5N.ar.png" group-title="TV || ARGENTINA", C5N
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/90964
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/2560px-Logo_La_Naci%C3%B3n.svg.png" group-title="TV || ARGENTINA", LA NACION+
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/90965
+
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/2eaff8a0e93659e55a3e21d250aa7347.png" group-title="TV || ARGENTINA", A24 HD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/90966
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="TV || ARGENTINA", EL NUEVE
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/112573
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png" group-title="TV || ARGENTINA", CANAL 22 BUENOS AIRES
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26661
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV || ARGENTINA", CANAL 26
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26662
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X4dchSH/Screenshot-1.png" group-title="TV || ARGENTINA", CANAL 5 TV
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26663
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/13-Max-TV-Corrientes-en-vivo.png" group-title="TV || ARGENTINA", 13MAX
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26664
+
+#EXTINF:-1 tvg-logo="https://9digital.com.ar/wp-content/uploads/2024/03/mi9-x1-175x130px.png" group-title="TV || ARGENTINA", CANAL 9 LITORAL
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26665
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="TV || ARGENTINA", MILENIUM TV
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26666
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZSVdz7/aire.png" group-title="TV || ARGENTINA", AIRE DIGITAL
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26668
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="TV || ARGENTINA", TELEMAX
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26669
+
+#EXTINF:-1 tvg-logo="https://www.teleonline.tv/wp-content/uploads/2024/07/canal-12-metro-tv-150x150.jpg" group-title="TV || ARGENTINA", TELENORD
+http://fivetv.org:25461/CHAMORROE67838/ECHAMO6478/26670
+
